@@ -48,8 +48,8 @@ At Nodect, we are committed to the performance of education and connection to th
 #### :star2: Antonio Lorenzo
 #### :star2: Iván López
 #### :star2: Fabián Choque
-#### :star2: Lucas Burgos
-#### :star2: Joaquín Meza
+#### :star2: Cristian Torrejón
+#### :star2: Dámaris Villafañe
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
